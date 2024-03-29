@@ -1,4 +1,4 @@
-<img width="142" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/8ce7fbbd-6185-4ae9-a3c5-45c5eb3ebc06"># TSAI-S9
+# TSAI-S9
 
 This assignment is about training a Conv architecture with 4 conceptual blocks with architecture having pyramidal structure. Each block having different number of layers such that last layer of each block except the last Block has stride2. We have used 4 layers with num_layer per block = [4,3,3,2]. The 2nd, 3rd and 4th Block has depthwise separable convolutions to reduce the number of parameters in the architecture. The 2 Block uses dilated convolution to increase receptive field w/o adding additional parameters. The goal is to acheive > 85% test accuracy with less than 200K parameters in as many epoch as required. <br>
 
