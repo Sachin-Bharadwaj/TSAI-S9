@@ -6,7 +6,7 @@ Our Basic architecture looks like
 <img width="198" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/18515210-5424-4191-9783-6b78d0583992"> <br>
 It has less than 200K parameters. <br>
 
-We perform following experiments. 
+We perform following experiments. <br>
 **Experiment1**: <img width="806" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/9e3441b8-0d7e-46a9-a404-66c3c2006f24"> <br>
 - Observation: The network does not get trained. So, we decide to add BatchNorm to smoothen the loss landscape so that network gets trained. <br>
 
