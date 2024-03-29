@@ -13,7 +13,7 @@ We perform following experiments.
 **Experiment2**: <img width="144" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/f7a087f4-4ed3-4087-ac83-8a94bbde4a3b"> <br>
 - Observation: Batch Norm helps in network getting trained but we see heavy overfitting. So we decide to add Dropout to reduce overfitting. <br>
 
-**Experiment3**: <img width="194" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/5dde5642-50b8-45d6-9166-f54e4e1acc23 <br>
+**Experiment3**: <img width="194" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/5dde5642-50b8-45d6-9166-f54e4e1acc23"> <br>
 - Observation: We achieve test acc > 82% but we see some overfitting in 70-100 epochs. So lets add some data augmentation to increase the test accuracy and reduce overfitting. <br>
 
 **Experiment4**: <img width="142" alt="image" src="https://github.com/Sachin-Bharadwaj/TSAI-S9/assets/26499326/16d548d1-1771-432a-a9e1-765d813a5fec"> <br>
